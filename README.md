@@ -1,2 +1,2 @@
-# Web Interface for NIST SP 800-22 Test Suite
+# NIST-SP800-22-Test-Suite-Web-Interface
 NDHU IM Information Security Lab.
